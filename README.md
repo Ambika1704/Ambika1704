@@ -1,26 +1,12 @@
-## Hi there 👋
+## 👋 Hi there
 
 A curious mind who loves blending creativity and logic to build meaningful tech solutions.
 
--💡 Passionate about technology that impacts lives
--✨ I believe even small projects can make a big impact
--🧭 I’m curious about the "why" behind every challenge — not just the "how"
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambika-b-sajjan)
-
+- 💡 Passionate about technology that impacts lives  
+- ✨ I believe even small projects can make a big impact  
+- 🧭 I’m curious about the "why" behind every challenge — not just the "how"
 
 > “Build not just for today, but for what tomorrow can become.”
-<!--
-**Ambika1704/Ambika1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+connect me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
