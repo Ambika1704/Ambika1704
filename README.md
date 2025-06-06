@@ -2,9 +2,9 @@
 
 A curious mind who loves blending creativity and logic to build meaningful tech solutions.
 
-##💡 Passionate about technology that impacts lives
-##✨ I believe even small projects can make a big impact
-##🧭 I’m curious about the "why" behind every challenge — not just the "how"
+-💡 Passionate about technology that impacts lives
+-✨ I believe even small projects can make a big impact
+-🧭 I’m curious about the "why" behind every challenge — not just the "how"
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambika-b-sajjan)
 
