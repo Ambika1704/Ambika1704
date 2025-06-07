@@ -1,4 +1,4 @@
-## 👋 Hi there
+### 👋 Hi there
 
 A curious mind who loves blending creativity and logic to build meaningful tech solutions.
 
