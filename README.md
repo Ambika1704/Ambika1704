@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=160&duration=3000&pause=10000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=200&lines=Ambika" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=130&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=200&lines=Ambika" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=29&duration=4000&pause=10000&color=00FFD1&center=true&vCenter=true&width=1000&height=70&lines=Exploring+machine+learning+with+curiosity+and+clean+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=4000&pause=100000&color=00FFD1&center=true&vCenter=true&width=1000&height=70&lines=Exploring+machine+learning+with+curiosity+and+clean+code" />
 </p>
 <br/>
 
