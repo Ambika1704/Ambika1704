@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=100&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=120&lines=Ambika" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=100000&color=00FFD1&center=true&vCenter=true&width=1000&height=60&lines=Exploring+technology+with+curiosity" />
